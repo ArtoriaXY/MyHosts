@@ -1,8 +1,9 @@
 #Mydns
-61.135.169.121  www.baidu.com
+61.135.169.121 www.baidu.com
 106.14.35.229 blog.dreamxy.top
 106.14.35.229 blog.family521.top
 106.14.35.229 homes.dreamxy.top
+106.14.35.229 admin.family521.top
 #Apple
 104.83.106.166 www.apple.com.cn
 104.83.106.166 www.apple.com.cn.edgekey.net
@@ -32,4 +33,6 @@
 #GitHub
 13.250.177.223 github.com
 #Bilibili
-120.92.147.239  www.bilibili.com
+120.92.147.239 www.bilibili.com
+#aige
+139.129.112.11 www.aigei.com
